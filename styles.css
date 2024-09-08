@@ -1,0 +1,48 @@
+@font-face{
+    font-family: myfont;
+    src: url(Starjedi.ttf);
+}
+
+
+body {
+    color: white;
+    text-align: center;
+    font-family: myfont;
+    margin: 0px;
+}
+
+#hero {
+    background-image: url(images/spacerun.webp);
+    background-size: cover;
+    padding: 10px 0 300px 0;
+   
+}
+
+.btn {
+    padding: 8px 14px;
+    background: #9ef01a;
+    border: none;
+    font-family: inherit;
+
+
+}
+
+.underline {
+    border-bottom: 4px solid #9ef01a;
+}
+
+
+#main-logo {
+width: 100px;
+
+}
+
+#title {
+    text-shadow: 0 0 4px black;
+}
+
+#terms {
+    font-family: inherit;
+    color: black;
+}
+
